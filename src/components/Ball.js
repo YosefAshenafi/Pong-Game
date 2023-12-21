@@ -1,9 +1,3 @@
-const DIRECTIONS = {
-  UP: 1,
-  DOWN: -1,
-  IDLE: 1,
-};
-
 const Ball = {
   new: function () {
     return {
