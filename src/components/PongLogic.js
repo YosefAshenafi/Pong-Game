@@ -6,7 +6,7 @@ import Paddles from './Paddles';
 const DIRECTIONS = {
   UP: 1,
   DOWN: -1,
-  IDLE: 1,
+  IDLE: 2,
 }
 
 const PongLogic = () => {
